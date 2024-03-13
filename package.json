@@ -1,0 +1,19 @@
+{
+  "name": "binar-car-rental",
+  "version": "1.0.0",
+  "description": "Project Challenge Chapter 1 - SYNRGY 7",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "bootstrap"
+  ],
+  "author": "Riyandi Dwitama Djohari",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "11.2.0"
+  }
+}
